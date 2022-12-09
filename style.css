@@ -9,4 +9,7 @@
       content:  "—";
       position: absolute;
       left:     -18px;
-  }
+}
+.info {
+    list-style: none;
+}
