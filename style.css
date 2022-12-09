@@ -1,0 +1,12 @@
+.skill {
+    list-style: none;
+    margin: 0
+  }
+.skill li {
+     position: relative;
+    }
+.skill li:before {
+      content:  "—";
+      position: absolute;
+      left:     -18px;
+  }
